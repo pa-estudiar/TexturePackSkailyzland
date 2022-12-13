@@ -3,7 +3,7 @@
         "pack_format": 9,
         "description": [
             {"text": "Resource Pack by ", "color": "light_purple", "bold": false, "italic": false},
-            {"text": "Skailyzland", "color": "yellow", "bold": true, "italic": true, "underlined": true}
+            {"text": "SkailyzlandHojaBorrador", "color": "yellow", "bold": true, "italic": true, "underlined": true}
         ]
     }
 }
