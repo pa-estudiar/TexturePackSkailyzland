@@ -8,8 +8,8 @@
   <a href="https://www.spigotmc.org/resources/2117/" title="See our Spigot rating.">
       <img src="https://img.shields.io/spiget/stars/2117?style=plastic"/>
   </a>
-  <a href="https://discord.gg/MvmkHEu" title="Join our discord for support.">
-      <img src="https://img.shields.io/discord/407221862980911105?label=discord&logo=discord&style=plastic" />
+  <a href="https://discord.gg/bRuEaWwP" title="Join our discord for support.">
+      <img src="https://img.shields.io/discord/893487088907980832?label=Discord&logo=Discord&style=plastic" />
   </a>
   <a href="https://github.com/BetonQuest/BetonQuest/actions?query=workflow%3ABuild+branch%3Amaster+event%3Apush++" title="See the projects build status here.">
       <img src="https://img.shields.io/github/workflow/status/BetonQuest/BetonQuest/Build/master?event=push&logo=githubactions&style=plastic">
@@ -21,10 +21,10 @@
       <img src="https://img.shields.io/opencollective/all/betonquest?label=open%20collective&logo=opencollective&style=plastic">
   </a>
   <hr/>
-      <p>BetonQuest is an advanced and powerful quest plugin. It offers RPG-style conversations with NPCs and a very flexible quest system.</p>
+      <p>Se esta creando un Texture pack personalizado para el servidor Skailyland, estamos en progreso.</p>
   <br>
-  <a href="https://docs.betonquest.org/2.0.0-DEV/">Website</a> |  
-  <a href="https://docs.betonquest.org/2.0.0-DEV/API/Overview/">API Documentation</a> | 
-  <a href="https://docs.betonquest.org/2.0.0-DEV/Participate/Overview/">Contributing Documentation</a> |  
-  <a href="https://discord.com/invite/rK6mfHq">Discord</a> 
+  <a href="https://skailand.tebex.io/">Website</a> |  
+  <a href="">...</a> | 
+  <a href="">...</a> |  
+  <a href="https://discord.gg/bRuEaWwP">Discord</a> 
 </div>
