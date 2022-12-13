@@ -1,0 +1,12 @@
+{
+        "custom.navidad0": {
+		"sounds": [
+			"custom_sounds/Coraline_End_Credits"
+		]
+	},
+		"custom.navidad1": {
+		"sounds": [
+			"custom_sounds/La_navidad_de_Krampus"
+		]
+		}
+}
