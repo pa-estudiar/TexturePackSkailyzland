@@ -1,0 +1,7 @@
+{
+        "custom.sonido": {
+		"sounds": [
+			"custom_sounds/sonido"
+		]
+	}
+}
