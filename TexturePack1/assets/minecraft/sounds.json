@@ -18,5 +18,10 @@
 		"sounds": [
 			"carpetadeltema/nombredeltema"
 		]
-	}
+	},
+	"custom.bossnoche": {
+	"sounds": [
+		"custom_sounds/el_señor_de_la_noche"
+	]
+}
 }
