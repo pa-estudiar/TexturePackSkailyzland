@@ -13,5 +13,10 @@
 		"sounds": [
 			"custom_sounds/farruko_pepas"
 		]
+	},
+		"custom.nombre": {
+		"sounds": [
+			"carpetadeltema/nombredeltema"
+		]
 	}
 }
