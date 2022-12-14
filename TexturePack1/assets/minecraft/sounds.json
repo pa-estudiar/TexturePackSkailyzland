@@ -1,22 +1,17 @@
 {
-    "custom.dungeonChristmas": {
+    	"custom.dungeonchristmas": {
 		"sounds": [
-			"custom_sounds/mix_dungeon_Christmas"
+			"custom_sounds/mix_dungeon_christmas"
 		]
 	},
-	"custom.effectComp": {
+		"custom.effectcomp": {
 		"sounds": [
 			"custom_sounds/levelup1"
 		]
 	},
-	"custom.bossNoche": {
+		"custom.farruko": {
 		"sounds": [
-			"custom_sounds/El_Señor_De_La_Noche"
-		]
-	},
-	"custom.musicEpic": {
-		"sounds": [
-			"custom_sounds/Blackbear_Hot_Girl_Bummer"
+			"custom_sounds/farruko_pepas"
 		]
 	}
 }
