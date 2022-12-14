@@ -1,12 +1,22 @@
 {
-        "custom.navidad0": {
+    "custom.dungeonChristmas": {
 		"sounds": [
-			"custom_sounds/Coraline_End_Credits"
+			"custom_sounds/mix_dungeon_Christmas"
 		]
 	},
-		"custom.navidad1": {
+	"custom.effectComp": {
 		"sounds": [
-			"custom_sounds/La_navidad_de_Krampus"
+			"custom_sounds/levelup1"
 		]
-		}
+	},
+	"custom.bossNoche": {
+		"sounds": [
+			"custom_sounds/El_Señor_De_La_Noche"
+		]
+	},
+	"custom.musicEpic": {
+		"sounds": [
+			"custom_sounds/Blackbear_Hot_Girl_Bummer"
+		]
+	}
 }
